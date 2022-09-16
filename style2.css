@@ -8,11 +8,21 @@ body {
   background-color: rosybrown;
 }
 #title {
+  text-align: center;
   margin-top: -250px;
-  margin-left: 850px;
+  margin-left: 750px;
   border: solid 10px rosybrown;
   padding: 50px 25px;
-  width: 25vw;
+  width: 16.5vw;
   font-family: "Bebas Neue", cursive;
   font-size: 50px;
+}
+.Blog1 {
+  text-align: center;
+  color: antiquewhite;
+  border: antiquewhite;
+  padding: 50px 25px;
+}
+#Queen {
+  width: 20vw;
 }
