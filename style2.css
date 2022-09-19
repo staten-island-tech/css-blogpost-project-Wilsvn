@@ -21,8 +21,30 @@ body {
   text-align: center;
   color: antiquewhite;
   border: antiquewhite;
+  background-color: antiquewhite;
+  margin: 100px 500px;
   padding: 50px 25px;
 }
-#Queen {
+#Images {
   width: 20vw;
+}
+#Description {
+  font-size: x-large;
+  color: black;
+}
+.Blog2 {
+  text-align: center;
+  color: antiquewhite;
+  border: antiquewhite;
+  background-color: antiquewhite;
+  margin: 100px 500px;
+  padding: 50px 25px;
+}
+.Blog3 {
+  text-align: center;
+  color: antiquewhite;
+  border: antiquewhite;
+  background-color: antiquewhite;
+  margin: 100px 500px;
+  padding: 50px 25px;
 }
